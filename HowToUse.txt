@@ -1,0 +1,31 @@
+How to use:
+To quick open settings just drag your mouse over the settings button.When you srag you mouse back on the form it closes back down.If you want to keep it open click on the settings button,to hide it agen click hide.
+
+Clear button simply dose Form1.cls (wich makes the form go black agen)
+
+Mouse Commands:
+Clicking the form makes it puase.This gives you a chanse to move the mouse someware whihthout draging the line behind it.Hovever when you click you continue to draw from where you started.To move the draw starting point to your cursor click the right mouse button.
+Dubleclick clears the screen(Note: it also pausas/unpauses cause the mouse down event still hapends) 
+
+Sttings:
+Scater A: random up/down shifting the lines stating point a bit.
+Scater A: random up/down shifting the lines ending point a bit.
+DrawWidth: Thinknes of lines
+FrameLimit:Limiting of frames
+Trail Lenth: The lenth of the trail it leaves
+
+AutoClear: dose a cls before each rendering
+FadeTrail: fades its trail to black
+ColorRnd: Randomises the color tone a bit
+Gravity: the trail gets puled down
+Points: render points
+Lines: render lines
+Circles: render circles
+AutoColor: Cycels trough the colors automaticly
+Color: Sorry ... no RGB sliders,Checkboes will do.
+
+Most fun when used maximised over the whole screen.
+
+If your one of those peole that use resoluations like 800x600 then the settings menu is gona fill most of your screen.
+
+Have fun playing around in it and meaby make it do even crazyer paterns.
